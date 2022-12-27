@@ -1,0 +1,20 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Indent XML",
+		"Linearize XML",
+		"MarkdownPreview",
+		"Markmon real-time markdown preview",
+		"Package Control",
+		"Readme-Helper",
+		"XAML",
+	],
+	"repositories":
+	[
+		"https://packagecontrol.io/packages/Indent%20XML"
+	],
+}
